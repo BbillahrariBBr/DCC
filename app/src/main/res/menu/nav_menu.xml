@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/college_history"
+            android:icon="@drawable/ic_history"
+            android:id="@+id/collegeHistory" />
+
+        <item
+            android:title="@string/college_administration"
+            android:icon="@drawable/ic_administration"
+            android:id="@+id/clgAdministration" />
+
+        <item
+            android:title="@string/faculty"
+            android:icon="@drawable/ic_faculty"
+            android:id="@+id/faculty" />
+
+        <item
+            android:title="@string/student_info"
+            android:icon="@drawable/ic_stinfo"
+            android:id="@+id/studentInfo" />
+
+        <item
+            android:title="@string/admission_information"
+            android:icon="@drawable/ic_information"
+            android:id="@+id/admitInfo" />
+
+        <item
+            android:title="@string/college_ranking_position"
+            android:icon="@drawable/ic_ranking"
+            android:id="@+id/clgRanking" />
+
+        <item
+            android:title="@string/college_infrastructure"
+            android:icon="@drawable/ic_structural"
+            android:id="@+id/clgInfras" />
+
+        <item
+            android:title="@string/college_location"
+            android:icon="@drawable/ic_location"
+            android:id="@+id/clgLoc" />
+
+        <item
+            android:title="@string/contact_us"
+            android:icon="@drawable/ic_contactus"
+            android:id="@+id/Contact" />
+
+
+    </group>
+
+</menu>

@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Dhaka City College</string>
+    <string name="college_history">College History</string>
+    <string name="faculty">Faculty</string>
+    <string name="college_administration">College Administration</string>
+    <string name="student_info">Student Info</string>
+    <string name="admission_information">Admission Information</string>
+    <string name="college_ranking_position">College Ranking Position</string>
+    <string name="college_infrastructure">College Infrastructure</string>
+    <string name="college_location">College Location</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="read_more">Read More</string>
+    <string name="show_less">Read Less</string>
+
+    <string name="home_details">"
+       <p><b>Dhaka City College (DCC)</b> is one of the oldest colleges in <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh</a>. It is located at Dhanmondi, kudrat-e-khuda road in <a href="https://en.wikipedia.org/wiki/Dhaka">Dhaka</a> city. It offers graduation and post graduation course in majors and HSC. The college is affiliated with the <a href="https://en.wikipedia.org/wiki/National_University,_Bangladesh">National University</a>.</p>
+        <br></br><br></br>
+        <p>Dhaka City College was established in 1957 under the patronage of educationists and social workers. The classes of the college were held at <a href="https://en.wikipedia.org/wiki/West_End_High_School_(Dhaka,_Bangladesh)">West End High School</a> and thereafter at Dhaka College. In 1970 the college was shifted to Dhanmondi Road No. 2 at its own premises.</p>
+        <br></br><br></br>
+        <p>Among those who contributed to the establishment of this institution, the names of Khan Bahadur Abdur Rahman and Ataur Rahman Khan, former Prime Minister of Bangladesh. Khaney Alom Khan, former Chairman of the Governing Body arranged financial assistance for the development of the college buildings while he was the Divisional commissioner of Dhaka Division.</p>
+        <br></br><br></br>
+        <p>The college principal is Mr. Shahjahan Khan. He joined this college as lecturer in Accounting. The chairman of the governing body is <a href="https://en.wikipedia.org/wiki/Syed_Modasser_Ali">Syed Modasser Ali</a></p>"
+    </string>
+
+    <string name="history_details">"
+        <b>Introduction to the College</b>
+At the beginning of the 21st Century, today's Dhaka City College, situated at the center of the capital's Dhanmondi Road, was established in 1957 as Dhaka City Night College.
+Whose journey started in the limited range of West and High School, today its long standing and prominent position in the education system of Bangladesh has passed through a long period of time. After staying in Dhaka College campus for some time in the 60's, the college started its work in '70 today.
+Soon after taking over the charge of Principal Professor Hafizuddin in 1977, a new journey of modern Dhaka City College started. Professor Md. Hafiz Uddin passed away on December 29, 2009, after working long after 33 years of his success as a Principal. We call Principal Md. Hafiz Uddin as the 'Rupakar of Modern Dhaka City College'.
+Along with the former Dhaka Divisional Commissioner, Alam Khan, the former chairman of the college governing body, the construction of two more large buildings were built in 1989. Meanwhile, the construction of another building is over. Progressive branch started for girls after leaving the night division in 1991. Throughout the introduction of non-political students-council, a breakthrough was initiated in 1992 for conducting educational activities of the college. Meanwhile, two separate places were purchased for the college's own financing. A 13-katha adjoining a college on which a 6-storey building has been constructed. The other is one bigha place in Dhanmondi 3 / A road. The construction of the six-storey building was completed. Also, the benefits of introduction of semester courses and examination methods at graduate and higher secondary level have been present since 1980. Evidence of this is that since 1984 many universities and university level examinations have been ranked on the merit list of a large number of students each year. In recent times, the Grading Method Board examination is one of the main evidence of GPA-5 of the highest number of students in the field of business education and science.
+
+In the 1995-96 academic year, the introduction of higher courses has added new dimensions to the college's advancement. Honors and MBBS in Management, Accounting and Marketing The college is progressing towards achieving higher education through the 1st episode and the last episode. Honors in English from 1997-98 academic year, 1998 BSC from Education Year (Honors) Computer Science and Engineering, BBA And BBSE from the 2003 -04 academic year (Honors) Finance and Banking courses are introduced. Education for B.Sc. (Honor) Economy has started in the 2012-2013 session. Regular MBA from 2004 Courses have been introduced. In order to provide quality human resources by providing quality education, the instructions of the Board and the National University and the principles and procedures followed in the universities of the developed world have been introduced in the college in the light of their own methods of teaching.
+
+The renowned medical practitioner, former Health Advisor to Honorable Prime Minister and Honorable Education Personality Professor Dr. Syed Modasser Ali is currently being managed by the efficient management and supervision of the respected members of the Governing Body, with sincere effort and proper guidance and supervision. The effective governance of the competent authority, the sincere, honest and qualified teacher-lecture, the favorable environment of the beautiful, transparent and expected education and the use of well-planned progressive education have made the college a proud institution today. We firmly believe that Dhaka City College is playing a positive role in national progress by spreading education through the development of self-confidence and human spirit.
+
+<b>Administrative structure</b>
+Dhaka City College is a private educational institute. High School, Graduate (Pass) and BBA approved by Dhaka Education Board and National University are here, Accounting, Management, Marketing, Finance A-Banking, BA Honors English, B.Sc. (Honor) Economics, B.Sc. Honors in Computer Science A-Engineering, Bachelor of Business Administration (BBA Professional) and post-graduate level courses are taught in different courses. This college is governed by the governing body formed according to the rules of the National University. The governing body determines all the rules related to college and the college is governed by those policies. In order to implement those policies, the college administrative structure has been designed as follows:
+
+<i>Principal</i>: The principal is the executive chief of the college. In the light of the governing body decisions, he conducted the academic and administrative activities of the college.
+
+<i>Vice-Principal</i>: As per the instructions of the Principal, they assist in administrative and academic work.
+
+<i>Divisional Head / Co-ordinator</i>: In order to assist the Principal in performing all academic activities in respect to all the subjects which have been honored and Masters course, a teacher from the concerned subject is given additional responsibility for the post of Head of the department. Four year term bba Professional and B.Sc. A teacher is assigned co-ordinator for every course in order to assist the Principal in performing the academic work of Honors in Computer Science and Engineering course.
+
+<i>Designated Teacher</i>:
+
+(i) <i>Class monitoring</i>: Two teachers are given the responsibility to monitor the class for a specified period.
+
+(ii) <i>Examination Management</i>: Internal examination of the college, such as class test, seamester examination, preparatory test or model test and board and university examination"</string>
+
+    <string name="student_details">"On the first day of July 1957 the  Dhaka City College  opened its doors to students.
+        The classes of the college were held at West End High School and thereafter at Dhaka College with a few students.
+        In 1970 the college was shifted to Dhanmondi Road No. 2 at its own.
+        At present, approximately 5000 students are enrolled in this college  and are taught by almost 1992 teachers.
+        On HSC level there are more than 3500 students and only C.S.E department  we have more than800 students and 200 seats with double shift.
+        They are making brilliant performances  in all activities.<br></br>
+        Now we provide some result link student of BSC in CSE department:
+    <br></br>
+        <a href="http://bit.ly/1IJJBZ6">2nd year 3rd semester 2014</a><br></br>
+<a href="http://bit.ly/1I3IkGH">2nd year 4th semester 2013</a><br></br>
+<a href="http://bit.ly/1aVotA8">1st year 1st semester 2014</a><br></br>
+<a href="http://bit.ly/1JJYp6W">1st year 2nd semester 2013</a><br></br>
+<a href="http://tinyurl.com/mcl9ncb">4th year 8th semester  2012</a><br></br>
+<a href="http://tinyurl.com/oldjyyv">3rd year 6th  semester 2012</a><br></br>
+<a href="http://tinyurl.com/mchyozg">2nd year 3rd  semester 2013 </a><br></br>
+<a href="http://tinyurl.com/kfrkyrw">2nd year 4th  semester 2012</a><br></br>
+<a href="http://tinyurl.com/l5yjp43">4th year 7th semester 2012</a><br></br>
+<a href="http://tinyurl.com/nyn8uaf">1st year 1st  semester 2013 </a><br></br>
+<a href="http://tinyurl.com/kslu3go">3rd year 6th  semester 2011 </a><br></br>
+<a href="http://tinyurl.com/lzefz8g">2nd year 3rd  semester 2012</a><br></br>
+<a href="http://tinyurl.com/ljlhmoz">1st year 2nd  semester 2012 </a><br></br>
+<a href="http://bit.ly/1D1SULj">2nd year 4th  semester 2011</a><br></br>
+<a href="http://tinyurl.com/p8bj23a">1st year 2nd semester 2010</a><br></br>
+<a href="http://bit.ly/1JiEGfA">3rd year 5th semester 2013</a><br></br>
+<a href="http://bit.ly/1Jgkf0z">4th year 7th semester 2013</a><br></br>
+<a href="http://bit.ly/1OekRLR">3rd year 6th semester 2013 </a><br></br>
+<a href="http://bit.ly/1ZgZQBW">1st year 2nd semester 2014 </a><br></br>
+<a href="http://bit.ly/1JFAOso">2nd year 4th semester 2014 </a><br></br>
+<a href="http://bit.ly/1OZioW7">3rd year 5th semester 2014  </a><br></br>
+<a href="http://on.fb.me/1l3kdDt">4th year 8th semester 2013</a><br></br>
+<a href="http://bit.ly/2nRL1ZE">4th year 8th semester 2014 </a><br></br>
+<a href="http://bit.ly/2gnJnij">3rd year 5th semester 2015</a><br></br>
+<a href="http://bit.ly/2ppNzlG">3rd year 6th semester 2015</a><br></br>
+<a href="http://bit.ly/">(17th batch) 1st year 1st semester 2015 20ZMetR</a><br></br>
+<a href="http://bit.ly/2oLSGML">(17th batch) 1st year 2nd semester 2015</a><br></br>
+<a href="http://bit.ly/2oTdfnA">(17th batch) 2nd year 3rd semester 2016 </a><br></br>
+<a href="http://bit.ly/2j92g7Q">(17th batch) 2nd year 4th semester 2016 </a><br></br>
+<a href="http://bit.ly/2xNMDLV ">2nd year 3rd semester 2015</a><br></br>
+<a href="http://bit.ly/2nKKoAf">2nd year 4th semester 2015</a><br></br>
+<a href="http://bit.ly/2oI3V9n">4th year 7th semester 2015</a><br></br>
+<a href="http://bit.ly/2og3Ybp">1st year 1st semester 2016</a><br></br>
+<a href="http://bit.ly/2xNQqZz">1st year 2nd semester 2016 </a><br></br>
+<a href="http://bit.ly/2wm2nCf">4th year 7th semester 2016</a><br></br>
+<a href="http://bit.ly/2hJD1Il">3rd year 5th semester 2015</a><br></br>
+<a href="http://bit.ly/2ppNzlG">3rd year 6th semester 2015</a><br></br>
+<a href="http://bit.ly/2wm2nCf">4th year 7th semester 2016</a><br></br>
+<a href="http://bit.ly/2hvV1qC">3rd year 6th semester 2016</a><br></br>"
+
+    </string>
+    <string name="professor_dr_syed_modasser_ali">Professor Dr. Syed Modasser Ali</string>
+    <string name="chairman">Chairman</string>
+    <string name="dhaka_city_college_governing_body">Dhaka City College Governing Body</string>
+    <string name="professor_mohammad_shahjahan_khan">Professor Mohammad Shahjahan Khan</string>
+    <string name="principal">Principal</string>
+    <string name="professor_anwar_hossain">Professor Anwar Hossain</string>
+    <string name="vice_principal_administration_and_finance">Vice-Principal (Administration and Finance)</string>
+    <string name="professor_bedar_uddin_ahmed">Professor Bedar Uddin Ahmed</string>
+    <string name="vice_president_academic">Vice president (academic)</string>
+</resources>
