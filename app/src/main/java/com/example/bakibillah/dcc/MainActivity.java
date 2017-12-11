@@ -88,6 +88,31 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 intent = new Intent(MainActivity.this, StudentInfoActivity.class);
                startActivity(intent);
                 break;
+
+            case R.id.clgInfras:
+                intent = new Intent(MainActivity.this, CollegeInsfrastructureActivity.class);
+                startActivity(intent);
+                break;
+//
+//            case R.id.studentInfo:
+//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
+//                startActivity(intent);
+//                break;
+//
+//            case R.id.studentInfo:
+//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
+//                startActivity(intent);
+//                break;
+//
+//            case R.id.studentInfo:
+//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
+//                startActivity(intent);
+//                break;
+//
+//            case R.id.studentInfo:
+//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
+//                startActivity(intent);
+//                break;
         }
         drawerLayout.closeDrawer(GravityCompat.START);
         return true;
