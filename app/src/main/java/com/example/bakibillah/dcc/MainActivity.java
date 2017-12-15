@@ -80,8 +80,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
 
             case R.id.faculty:
-//                intent = new Intent(MainActivity.this, BRAPrimarySchoolActivity.class);
-//                startActivity(intent);
+                intent = new Intent(MainActivity.this, FacultyActivity.class);
+                startActivity(intent);
                 break;
 
             case R.id.studentInfo:
@@ -94,25 +94,25 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 startActivity(intent);
                 break;
 //
-//            case R.id.studentInfo:
-//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
-//                startActivity(intent);
-//                break;
+            case R.id.clgLoc:
+                intent = new Intent(MainActivity.this, CollegeLocationActivity.class);
+                startActivity(intent);
+                break;
 //
-//            case R.id.studentInfo:
-//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
-//                startActivity(intent);
-//                break;
+            case R.id.admitInfo:
+                intent = new Intent(MainActivity.this, AdmissionInformationActivity.class);
+                startActivity(intent);
+                break;
 //
-//            case R.id.studentInfo:
-//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
-//                startActivity(intent);
-//                break;
+            case R.id.Contact:
+                intent = new Intent(MainActivity.this, ContuctUsActivity.class);
+                startActivity(intent);
+                break;
 //
-//            case R.id.studentInfo:
-//                intent = new Intent(MainActivity.this, StudentInfoActivity.class);
-//                startActivity(intent);
-//                break;
+            case R.id.clgRanking:
+                intent = new Intent(MainActivity.this, RankingActivity.class);
+                startActivity(intent);
+                break;
         }
         drawerLayout.closeDrawer(GravityCompat.START);
         return true;

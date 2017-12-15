@@ -108,4 +108,74 @@ Dhaka City College is a private educational institute. High School, Graduate (Pa
     <string name="vice_principal_administration_and_finance">Vice-Principal (Administration and Finance)</string>
     <string name="professor_bedar_uddin_ahmed">Professor Bedar Uddin Ahmed</string>
     <string name="vice_president_academic">Vice president (academic)</string>
+    <string name="show_map">Show Map</string>
+
+    <string name="admition_date_timedetails">
+        "Dhaka City College is famous college of Bangladesh.Admission date has started recently in <a href="http://dhakacitycollege.edu.bd">Dhaka College</a> official website. It’s EIIN number is – <b>107975</b>
+
+
+        <a href="http://xiclassadmission.gov.bd/"><b>Apply Online</b></a>
+        <br></br><br></br>
+        <b>Online Application Start</b>: 9 May 2017<br></br><br></br>
+        <b>Online Application End:</b> 31 May 2017<br></br><br></br>
+        <b>Admission Result:</b> 5 June 2017<br></br><br></br>
+        <b>Application Fee:</b> 150 Taka<br></br><br></br>
+        <b>SMS Application Fee:</b> 120 Taka"
+    </string>
+    <string name="admission_eligibility">Admission Eligibility</string>
+    <string name="eligibilty_details">
+       " <b>Bangla Medium: </b> <br></br><br></br>
+
+
+<b>Science</b><br></br><br></br>
+
+<b>Male: </b>800<br></br>
+
+<b>Female: </b>800<br></br><br></br>
+
+
+<b>Business</b><br></br><br></br>
+
+<b>Male: </b>900<br></br>
+
+<b>Female: </b>500<br></br><br></br>
+
+
+<b>Humanity</b><br></br><br></br>
+
+<b>Male: </b>75<br></br>
+
+<b>Female: </b>75<br></br><br></br>
+
+<b>English Medium: </b> <br></br><br></br>
+
+<b>Science</b><br></br><br></br>
+
+<b>Male: </b>25<br></br>
+
+<b>Female: </b>25<br></br><br></br>
+
+
+<b>Business</b><br></br><br></br>
+
+<b>Male: </b>25<br></br>
+
+<b>Female: </b>25<br></br><br></br>
+
+
+<b>Humanity</b><br></br><br></br>
+
+<b>Male: </b>Not Available <br></br>
+
+<b>Female: </b>Not Available<br></br><br></br>"
+
+    </string>
+    <string name="contact_us_details">"Road No:2, Dhanmondi R/A Dhaka-1205, Bangladesh
+        <br></br> <br></br>
+    <b>Web:</b> <a href="http://dhakacitycollege.edu.bd">http://www.dhakacitycollege.edu.bd/</a><br></br> <br></br>
+
+    <b>Phone No: </b> +88-02-58610294
+    <br></br>
+    <b>Fax No:</b> +88-02-9675529"
+</string>
 </resources>

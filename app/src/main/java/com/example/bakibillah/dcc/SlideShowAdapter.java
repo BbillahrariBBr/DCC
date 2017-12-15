@@ -10,9 +10,6 @@ import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
 
-/**
- * Created by BakiBillah on 12/9/2017.
- */
 
 public class SlideShowAdapter extends PagerAdapter {
 
