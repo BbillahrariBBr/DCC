@@ -30,11 +30,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     NavigationView navigationView;
     ActionBarDrawerToggle toggle;
     Intent intent;
-    //Button factsheet;
-    //SliderLayout sliderLayout;
     ViewPager viewPager;
     SlideShowAdapter slideShowAdapter;
-    CircleIndicator circleIndicator;
+    //CircleIndicator circleIndicator;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

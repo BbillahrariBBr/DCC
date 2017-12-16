@@ -4,9 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.bakibillah.dcc.FacultyActivity">
-
-
+    tools:context="com.example.bakibillah.dcc.EngActivity">
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
         android:layout_width="match_parent"
@@ -32,7 +30,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:title="@string/faculty"
+                app:title="English"
                 app:layout_collapseMode="pin"/>
 
         </android.support.design.widget.CollapsingToolbarLayout>
@@ -50,7 +48,7 @@
             android:orientation="vertical"
             android:background="@color/colorPrimary">
 
-<!-- Accounting-->
+            <!-- Pro-->
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -67,7 +65,7 @@
 
                     <TextView
                         android:textColor="#000000"
-                        android:text="Accounting"
+                        android:text="Professor"
                         android:layout_gravity="center"
                         android:textStyle="bold"
                         android:layout_marginTop="12dp"
@@ -75,21 +73,23 @@
                         android:padding="14dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonAccounting"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
+                    <TextView
                         android:textColor="#000000"
-                        android:onClick="showFaculty"
-                        android:textStyle="bold"/>
+                        android:text="@string/eng_pro"
+                        android:layout_gravity="center"
+                        android:textStyle="bold"
+                        android:layout_marginTop="12dp"
+                        android:textSize="12sp"
+                        android:padding="14dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
 
 
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
-            <!-- Bba-->
+            <!-- assoPro-->
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -106,7 +106,7 @@
 
                     <TextView
                         android:textColor="#000000"
-                        android:text="BBA"
+                        android:text="Associate Professor"
                         android:layout_gravity="center"
                         android:textStyle="bold"
                         android:layout_marginTop="12dp"
@@ -114,21 +114,23 @@
                         android:padding="14dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonBba"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
+                    <TextView
                         android:textColor="#000000"
+                        android:text="@string/eng_assopro"
+                        android:layout_gravity="center"
                         android:textStyle="bold"
-                        android:onClick="showFaculty"/>
+                        android:layout_marginTop="12dp"
+                        android:textSize="12sp"
+                        android:padding="14dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
 
 
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
-            <!-- Chem-->
+            <!-- assntPro-->
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -145,7 +147,7 @@
 
                     <TextView
                         android:textColor="#000000"
-                        android:text="Chemistry"
+                        android:text="Assistant Professor"
                         android:layout_gravity="center"
                         android:textStyle="bold"
                         android:layout_marginTop="12dp"
@@ -153,21 +155,23 @@
                         android:padding="14dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonChem"
-                        android:onClick="showFaculty"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
+                    <TextView
                         android:textColor="#000000"
-                        android:textStyle="bold"/>
+                        android:text="@string/eng_astnpro"
+                        android:layout_gravity="center"
+                        android:textStyle="bold"
+                        android:layout_marginTop="12dp"
+                        android:textSize="12sp"
+                        android:padding="14dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
 
 
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
-            <!-- Cse-->
+            <!-- Lecturer-->
             <android.support.v7.widget.CardView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -184,7 +188,7 @@
 
                     <TextView
                         android:textColor="#000000"
-                        android:text="CSE"
+                        android:text="Lecturer"
                         android:layout_gravity="center"
                         android:textStyle="bold"
                         android:layout_marginTop="12dp"
@@ -192,138 +196,21 @@
                         android:padding="14dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonCse"
-                        android:onClick="showFaculty"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
-                        android:textColor="#000000"
-                        android:textStyle="bold"/>
-
-
-                </LinearLayout>
-            </android.support.v7.widget.CardView>
-
-            <!-- Eng-->
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp"
-                app:cardElevation="5dp"
-                app:cardUseCompatPadding="true"
-                >
-
-                <LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    >
-
                     <TextView
                         android:textColor="#000000"
-                        android:text="English"
+                        android:text="@string/eng_lec"
                         android:layout_gravity="center"
                         android:textStyle="bold"
                         android:layout_marginTop="12dp"
-                        android:textSize="16sp"
+                        android:textSize="12sp"
                         android:padding="14dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
 
-                    <Button
-                        android:id="@+id/buttonEng"
-                        android:onClick="showFaculty"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
-                        android:textColor="#000000"
-                        android:textStyle="bold"/>
 
 
                 </LinearLayout>
             </android.support.v7.widget.CardView>
-
-            <!-- Math-->
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp"
-                app:cardElevation="5dp"
-                app:cardUseCompatPadding="true"
-                >
-
-                <LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    >
-
-                    <TextView
-                        android:textColor="#000000"
-                        android:text="Mathematics"
-                        android:layout_gravity="center"
-                        android:textStyle="bold"
-                        android:layout_marginTop="12dp"
-                        android:textSize="16sp"
-                        android:padding="14dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonMath"
-                        android:onClick="showFaculty"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
-                        android:textColor="#000000"
-                        android:textStyle="bold"/>
-
-
-                </LinearLayout>
-            </android.support.v7.widget.CardView>
-
-            <!-- Stat-->
-            <android.support.v7.widget.CardView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp"
-                app:cardElevation="5dp"
-                app:cardUseCompatPadding="true"
-                >
-
-                <LinearLayout
-                    android:orientation="vertical"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    >
-
-                    <TextView
-                        android:textColor="#000000"
-                        android:text="Statistics"
-                        android:layout_gravity="center"
-                        android:textStyle="bold"
-                        android:layout_marginTop="12dp"
-                        android:textSize="16sp"
-                        android:padding="14dp"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content" />
-
-                    <Button
-                        android:id="@+id/buttonStat"
-                        android:onClick="showFaculty"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Show Faculty Member"
-                        android:textColor="#000000"
-                        android:textStyle="bold"/>
-
-
-                </LinearLayout>
-            </android.support.v7.widget.CardView>
-
-
 
 
 

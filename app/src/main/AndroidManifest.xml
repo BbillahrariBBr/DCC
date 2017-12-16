@@ -26,7 +26,14 @@
         <activity android:name=".AdmissionInformationActivity" />
         <activity android:name=".ContuctUsActivity" />
         <activity android:name=".RankingActivity" />
-        <activity android:name=".FacultyActivity"></activity>
+        <activity android:name=".FacultyActivity" />
+        <activity android:name=".AccountingActivity" />
+        <activity android:name=".BBAActivity" />
+        <activity android:name=".ChemActivity" />
+        <activity android:name=".CseActivity" />
+        <activity android:name=".MathActivity" />
+        <activity android:name=".EngActivity" />
+        <activity android:name=".StatActivity"></activity>
     </application>
 
 </manifest>

@@ -178,4 +178,208 @@ Dhaka City College is a private educational institute. High School, Graduate (Pa
     <br></br>
     <b>Fax No:</b> +88-02-9675529"
 </string>
+
+    <string name="acc_pro">
+        "       1. Dewan Kaniz Naima
+        kaniznaima25@gmail.com
+
+        2. Kazi Mokarram Hossain
+        mokarram.acc@gmail.com
+
+        3. Shamsul Arefin Chowdhury
+        arefin.acc@gmail.com"
+
+    </string>
+    <string name="acc_assopro">
+        "       1. Md. Jahangir Hossain
+        jh9123375@gmail.com
+
+        2. Reaz Mahmud Khan
+        reaz.acc@gmail.com
+
+        3. Md Abdul Mannan Molla
+        mmolla74@yahoo.com"
+
+    </string>
+    <string name="acc_astnpro">
+        "       1. S.M. Tariful Islam
+        tarif678@gmail.com
+
+        2. Mohammad Jamal
+        jamal_de_du_dcc@yahoo.com
+
+        3. Tajin Sultana
+        shohel_sarwar@yahoo.com"
+
+    </string>
+    <string name="acc_lec">
+        "       1. Kanij Fatema
+        seema24_moin@yahoo.com
+
+        2. Kazi Farhana Kabir
+        kazifarhanakabir@gmail.com
+
+        3. Irin Akter
+        miligazi@yahoo.com"
+</string>
+
+    <string name="bba_aspro">"1. Sohel Ahmed "</string>
+    <string name="bba_astnpro">"1. Mohammad Mosharraf Hossain
+
+2. Sayeda Ferdous Lusanta
+
+3. A.N.M. Badsha Mia
+
+4. Fahmin Islam"
+</string>
+    <string name="bba_lec">"1. Manna Akter Lina
+
+2. Fahmida Rawshan
+
+3. Refatun Nahar"
+</string>
+
+    <string name="chem_assopro">"1. Mohammad Mazharol Hoque
+mazharul76@yahoo.com
+
+2. Md. Kamal Hossain
+kamalhossaindcc@gmail.com"</string>
+    <string name="chem_astnpro">"1. Md. Moinul Haque
+moilulacbd@yahoo.com
+"</string>
+    <string name="chem_lec">"1. Nur-E-Jannat
+nursust2012@yahoo.com
+
+2. MD. ZIAUR RAHMAN
+zipu470@yahoo.com"
+</string>
+
+    <string name="cse_assopro">"1. Mohammad Ariful Hyder
+ariful_hyder@yahoo.com
+
+2. Md. Abdul Mannan Mondal
+mannan_mondal@yahoo.com
+
+3. Jannatul Ferdousi Ara
+jannatul_1977@yahoo.com
+
+4. Anupam Halder
+anupam_hal@yahoo.com
+
+5. Sabiha Sultana
+sabiha230@yahoo.com
+
+6. Shamima Sultana
+shamima819@yahoo.com
+"</string>
+    <string name="cse_astnpro">"1. Md. Mustafa Kamal
+mustafacomp@gmail.com
+
+2. Kanija Muntarina
+muntarina@yahoo.com
+
+3. Md. Jahangir Alam
+sumonsk7@gmail.com
+
+4. Shirin Nahar Sathi
+snsathi82@gmail.com"
+    </string>
+    <string name="cse_lec">"1. Md. Monir Hossain 
+saif.monir@yahoo.com
+
+2. Lubna Akhter
+lubnacse05@gmail.com
+
+3. Md. Shahiduzzaman
+torunshahid@yahoo.com
+
+4. Farjana Akter Lina
+linafarjana1406@yahoo.com
+
+5. Mustafizur Rahman
+mail2mustafizur@gmail.com
+
+6. Shipu Shikder
+shahjabinshipu@gmail.com"
+</string>
+
+    <string name="math_assopro">"1. Ms. Tahmina Begum
+rosy_math_dcc@yahoo.com"
+</string>
+    <string name="math_asntpro">"1. Mr. Sikder Mohd. Asaduzzaman
+ asaduzzaman_math_dcc@yahoo.com
+
+2. Mr. Rafiqul Islam Khan
+rafiq1622003@yahoo.com"
+</string>
+    <string name="math_lec">"1. SUMONTRA KUMAR DAS
+rahuldu83@gmail.com
+
+2. MANIR HOSSAIN
+mamunmath3939@gmail.com
+
+3. MD ERSHAD ALI
+sumon117ammh@gmail.com"
+</string>
+
+
+    <string name="eng_pro">"1. Muhammed Shamsul Alom
+dipankar.mahmud@yahoo.com
+
+2. Md. Yusuf Ali Chowdhury
+yousuf.chowdhury@gmail.com
+
+3. Md. Mofazzel Hossain
+mofazzel.eng@gmail.com
+
+4. Mustafizur Rahman
+greatmustafiz@gmail.com
+
+5. Farhana Sharmin Gazi
+gazifarhana@gmail.com"</string>
+    <string name="eng_assopro">"1. Golam Kabir
+kabir.golamdcc@gmail.com
+
+2. Zihan Sabah
+zihan_sabah03@gmail.com
+
+3. Md. Elham Hossain
+elham_hossain@yahoo.com
+"</string>
+    <string name="eng_astnpro">"1. Delwara Akther Dipti
+delwaradiptidu@gmail.com
+
+2. Tamanna Afrin
+tamannatasnia@yahoo.com
+
+3. Shahida Parvin
+shahidadcc@yahoo.com
+"</string>
+    <string name="eng_lec">"1. Md. Jahangir Alam
+jahangir409engdu@gmail.com
+
+2. Tahmina Javed
+tahminajaved1@yahoo.com
+
+3. Nahida Akter 
+slylarkn2013@gmail.com
+"</string>
+
+    <string name="stat_pro">"1. Mr. Md. Nur Nabi
+nurnobimanik@yahoo.com
+
+2. Mr. Atam Hossain Chowdhury
+atam.milton@gmail.com"</string>
+    <string name="stat_assopro">"1. Mr. Abdul Aziz
+azizdccstat@gmail.com"</string>
+    <string name="stat_astnpro">"1. Mohammed Farid Uddin
+fariduddincu1@gmail.com
+
+2. Mst. Amina Khatun
+amina4480@gmail.com
+
+3. Palash Chandra Saha
+palash_saha65@yahoo.com"</string>
+    <string name="stat_lec">"1. Md. Kawsarul Islam
+emon2k@gmail.com"</string>
 </resources>
